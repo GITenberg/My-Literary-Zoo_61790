@@ -1,0 +1,24 @@
+_repo: My-Literary-Zoo_61790
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sanborn, Kate
+    alias: Sanborn, Katherine Abbott
+    birthdate: 1839
+    deathdate: 1917
+    gutenberg_agent_id: '4181'
+    url: http://www.gutenberg.org/2009/agents/4181
+    wikipedia: https://en.wikipedia.org/wiki/Kate_Sanborn
+description: ''
+gutenberg_issued: '2020-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: My Literary Zoo
+url: http://www.gutenberg.org/ebooks/61790
