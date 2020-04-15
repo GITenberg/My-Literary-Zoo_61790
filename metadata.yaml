@@ -1,5 +1,8 @@
 _repo: My-Literary-Zoo_61790
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61790-h/images/cover.jpg
 creator:
   author:
     agent_name: Sanborn, Kate
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4181
     wikipedia: https://en.wikipedia.org/wiki/Kate_Sanborn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61790#My-Literary-Zoo
 gutenberg_issued: '2020-04-08'
 gutenberg_type: Text
 identifiers:
